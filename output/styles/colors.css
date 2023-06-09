@@ -1,0 +1,19 @@
+:root {
+  /* COLOR */
+  --button-border-danger: rgb(211, 27, 27);
+  --button-border-subdued: rgb(84, 86, 140);
+  --button-border-sucess: rgb(5, 97, 62);
+  --button-fill-accent-active: rgb(17, 20, 60);
+  --button-fill-accent-default: rgb(24, 28, 86);
+  --button-fill-accent-hover: rgb(57, 61, 121);
+  --button-fill-danger-active: rgb(211, 27, 27);
+  --button-fill-danger-default: rgba(24, 28, 86, 0);
+  --button-fill-danger-hover: rgb(255, 206, 206);
+  --button-fill-subdued-active: rgb(174, 183, 226);
+  --button-fill-subdued-default: rgba(24, 28, 86, 0);
+  --button-fill-subdued-default-alt: rgb(234, 234, 241);
+  --button-fill-subdued-hover: rgb(217, 221, 242);
+  --button-fill-success-active: rgb(55, 171, 131);
+  --button-fill-success-default: rgb(90, 195, 154);
+  --button-fill-success-hover: rgb(156, 217, 194);
+}
